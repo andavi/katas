@@ -1,0 +1,7 @@
+passes: 4failures: 0duration: 0.01s
+Template string, can contain multiline content
+wrap it in backticks (`) and add a newline, to span across two lines ‣
+even over more than two lines ‣
+and expressions inside work too
+like simple variables ‣
+also here spaces matter ‣

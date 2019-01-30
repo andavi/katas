@@ -1,0 +1,9 @@
+passes: 5failures: 0duration: 0.01s
+The object literal allows for new shorthands
+with variables
+the short version for `{x: x}` is {x} ‣
+works with multiple variables too ‣
+with methods
+using the name only uses it as key ‣
+a different key must be given explicitly, just like before ES6 ‣
+inline functions, can written as `obj={func(){}}` instead of `obj={func:function(){}}` ‣

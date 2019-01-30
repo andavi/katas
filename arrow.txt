@@ -1,0 +1,7 @@
+passes: 5failures: 0duration: 0.01s
+Arrow functions
+are shorter to write, instead of `function(){}` write `() => {}` ‣
+instead `{}` use an expression, as return value ‣
+one parameter can be written without parens ‣
+many params require parens ‣
+the function body needs parens to return an object ‣

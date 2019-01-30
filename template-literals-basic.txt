@@ -1,0 +1,10 @@
+passes: 5failures: 0duration: 0.01s
+A template string, is wrapped in ` (backticks) instead of ' or "
+by default, behaves like a normal string
+just surrounded by backticks ‣
+can evaluate variables, which are wrapped in "${" and "}"
+e.g. a simple variable "${x}" just gets evaluated ‣
+multiple variables get evaluated too ‣
+can evaluate any expression, wrapped inside "${...}"
+all inside "${...}" gets evaluated ‣
+inside "${...}" can also be a function call ‣
